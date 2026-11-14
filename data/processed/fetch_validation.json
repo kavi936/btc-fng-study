@@ -1,0 +1,40 @@
+{
+  "n_ohlcv": 3377,
+  "n_fng": 3205,
+  "n_merged_raw": 3205,
+  "ohlcv_range": [
+    "2017-08-17",
+    "2026-11-14"
+  ],
+  "fng_range": [
+    "2018-02-01",
+    "2026-11-14"
+  ],
+  "merged_range": [
+    "2018-02-01",
+    "2026-11-14"
+  ],
+  "gaps_found": [
+    "2018-04-14",
+    "2018-04-15",
+    "2018-04-16",
+    "2024-10-26"
+  ],
+  "n_gaps": 4,
+  "price_sources": [
+    "data-api.binance.vision"
+  ],
+  "gap_rows_dropped": 0,
+  "used_longest_contiguous": false,
+  "gaps_kept_as_holes": [
+    "2018-04-14",
+    "2018-04-15",
+    "2018-04-16",
+    "2024-10-26"
+  ],
+  "n_final": 3205,
+  "final_range": [
+    "2018-02-01",
+    "2026-11-14"
+  ]
+}
